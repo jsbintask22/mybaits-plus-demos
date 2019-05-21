@@ -1,0 +1,1 @@
+CREATE TABLE  user (id int primary key, username varchar(32), class varchar(32));

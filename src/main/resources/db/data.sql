@@ -1,0 +1,1 @@
+insert into user(id, username, class) values(1, 'jsbintask', 'c1');
